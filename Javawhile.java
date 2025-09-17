@@ -66,7 +66,7 @@ public class Javawhile {
 
         System.out.println("Soma dos ímpares entre " + inicio2 + " e " + fim2 + " é: " + soma2);
 
-        scanner.close();
+        
     }
 }
 
