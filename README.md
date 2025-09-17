@@ -17,3 +17,8 @@ O programa conta quantos números existem no intervalo de 100 até 125.
 Exercício 4 – Soma dos ímpares no intervalo
 O usuário digita um valor inicial e um final, e o programa soma todos os números ímpares dentro desse intervalo.
 <br>
+<img width="265" height="247" alt="image" src="https://github.com/user-attachments/assets/9e125989-72b9-4a74-bc8f-89ac696c2a67" />
+<br>
+obrigado pela atençao
+O usuário digita um valor inicial e um final, e o programa soma todos os números ímpares dentro desse intervalo.
+<br>
